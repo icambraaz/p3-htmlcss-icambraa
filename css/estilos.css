@@ -537,7 +537,7 @@ abbr {
   bottom: 1rem;
   right: 1rem;
   background-color: var(--beige-modificado);
-  color: -var(--negro);
+  color: var(--negro);
   padding: 0.5rem;
   font-size: 1rem;
 }
